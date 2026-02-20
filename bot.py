@@ -12,7 +12,7 @@ from aiogram.utils import executor
 # Tavsiya: tokenni env orqali qo'yish:
 # PowerShell:  setx BOT_TOKEN "YOUR_TOKEN"
 # So'ng terminalni qayta oching.
-API_TOKEN = os.getenv("BOT_TOKEN", "8587967429:AAHB2SpROVyRY-AxDEwngHjXpGL2E_gdQMc")
+API_TOKEN = os.getenv("BOT_TOKEN", "8587967429:AAG8KxcsdC6el3Hj0xcVkR1rQfvA9iLl4kE")
 
 ADMIN_ID = 6737790504
 
